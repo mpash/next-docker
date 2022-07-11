@@ -1,3 +1,7 @@
+# NextJS Docker Template
+Use this to get started with NextJS and docker right away
+[Demo](https://next-docker.up.railway.app/)
+
 ## Building
 
 - Run `make start` to make a production build
