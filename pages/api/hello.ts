@@ -11,7 +11,3 @@ export default function handler(
 ) {
   res.status(200).json({ name: "Mitch" });
 }
-
-export const config = {
-  runtime: "experimental-edge",
-};
